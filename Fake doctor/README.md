@@ -1,24 +1,10 @@
 # README
+<h1>What is this repo ?</h1>
+<h2>This is a project for the coding bootcamp The Hacking Project (THP), it is a simple database created with the ActiveRecords
+gem.</h2>
+  
+<h3>Things you may want to know:</h3>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 2.5.1
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Just run a simple <code>$ bundle install</code>, and then launch the rails console with <code>rails console</code>...that's it, you're ready to mess with the database !
